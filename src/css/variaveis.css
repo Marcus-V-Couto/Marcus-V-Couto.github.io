@@ -1,6 +1,6 @@
 :root {
-    --cor-primaria: #43bd8e;
-    --cor-secundaria: #FD6C22;    
+    --cor-primaria: #74bd43;
+    --cor-secundaria: #22bffd;    
     --cor-branca: #fff;
     --cor-fundo-escuro: #040203;    
     --cor-fundo-cinza-escuro: #282828;
@@ -8,8 +8,8 @@
   }
     
   :root {
-    --fonte-primaria: 'Poppins', sans serif;
-    --fonte-secundaria: 'Raleway', sans serif;
+    --fonte-primaria: 'Poppins', sans-serif;
+    --fonte-secundaria: 'Raleway', sans-serif;
     --fonte-gigante: 4.5rem;
     --fonte-extra-grande: 3rem;
     --fonte-grande: 2.4rem;

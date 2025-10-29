@@ -14,6 +14,7 @@
 
 .habilidades .container-habilidades .informacoes p,
 .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes h4,
 .habilidades .container-habilidades .informacoes .logo i{
     transition: all .3s ease;
     -moz-transition: all .3s ease;
@@ -23,6 +24,7 @@
 
 .habilidades .container-habilidades .informacoes:hover p,
 .habilidades .container-habilidades .informacoes:hover h3,
+.habilidades .container-habilidades .informacoes:hover h4,
 .habilidades .container-habilidades .informacoes:hover .logo i{
     color: var(--cor-primaria);
 }
@@ -32,6 +34,12 @@
     font-weight: 500;
     margin-bottom: 20px;
     color: var(--cor-primaria);      
+}
+
+.habilidades .container-habilidades .informacoes h4 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+    font-family: var(--fonte-secundaria);
 }
 
 .habilidades .container-habilidades .informacoes p {
