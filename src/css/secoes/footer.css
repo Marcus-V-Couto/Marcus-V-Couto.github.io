@@ -16,3 +16,9 @@
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
+
+.footer .copyright p {
+    font-family: var(--fonte-secundaria);
+    font-size: var(--fonte-pequena);
+    font-weight: 500;
+}

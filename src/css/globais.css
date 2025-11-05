@@ -76,6 +76,18 @@ html {
     font-weight: 500;
     text-transform: uppercase;
   }
+
+  .sub-section-title {
+    text-align: center;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 60px 0;
+  }
+  
+  .sub-section-title h3 {
+    font-size: var(--fonte-gigante);
+    font-weight: 500;
+  }
   
   .botao {
     font-size: var(--fonte-grande);

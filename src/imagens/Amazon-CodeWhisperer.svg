@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="82"
+   height="82"
+   viewBox="0 0 82 82"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="Amazon-CodeWhisperer.svg"
+   inkscape:export-filename="Amazon-CodeWhisperer.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.5664698"
+     inkscape:cx="-2.1029198"
+     inkscape:cy="29.020293"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Icon-Architecture/64/Arch_Amazon-CodeWhisperer_64" />
+  <title
+     id="title1">Icon-Architecture/64/Arch_Amazon-CodeWhisperer_64</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       x1="0"
+       y1="1"
+       x2="1"
+       y2="0"
+       id="linearGradient-1">
+      <stop
+         stop-color="#055F4E"
+         offset="0%"
+         id="stop1" />
+      <stop
+         stop-color="#56C0A7"
+         offset="100%"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Icon-Architecture/64/Arch_Amazon-CodeWhisperer_64"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="scale(1.025)">
+    <g
+       id="Icon-Service/64/Amazon-CodeWhisperer_64"
+       transform="matrix(1.427781,0,0,1.440144,-0.34635567,4e-7)"
+       fill="#ffffff">
+      <path
+         d="m 28.811002,30.215 1.889,0.655 -4.173,12.029 -1.889,-0.655 z m -5.815,3.143 -3.072,3.098 3.011,3.092 -1.434,1.396 -3.695,-3.796 c -0.38,-0.391 -0.377,-1.015 0.007,-1.402 l 3.763,-3.796 z m 14.859,2.388 c 0.384,0.387 0.387,1.011 0.007,1.402 l -3.697,3.796 -1.433,-1.396 3.011,-3.092 -3.071,-3.098 1.42,-1.408 z m 7.176,4.069 -3.448,1.723 c -0.338,0.17 -0.552,0.516 -0.552,0.895 v 5.958 l -8.118,4.996 -3.882,-2.217 V 46 h -2 v 5.17 l -3.882,2.217 -8.118,-4.996 v -5.959 c 0,-0.379 -0.214,-0.725 -0.553,-0.894 l -3.447,-1.724 -0.001,-3.894 0.001,-4.37 3.606,-2.748 c 0.248,-0.189 0.394,-0.483 0.394,-0.795 v -5.556 l 7.434,-4.336 4.566,2.549 V 27 h 2 v -6.336 l 4.565,-2.549 7.435,4.336 v 5.556 c 0,0.312 0.145,0.606 0.393,0.795 l 3.607,2.747 10e-4,4.371 z m 1.606,-9.556 -3.606,-2.748 v -5.634 c 0,-0.355 -0.189,-0.684 -0.496,-0.864 l -8.424,-4.913 c -0.306,-0.179 -0.684,-0.182 -0.991,-0.01 l -5.089,2.842 -5.089,-2.842 c -0.309,-0.171 -0.686,-0.169 -0.991,0.01 l -8.424,4.913 c -0.308,0.18 -0.496,0.509 -0.496,0.864 v 5.635 l -3.6070004,2.747 c -0.248,0.189 -0.393,0.484 -0.393,0.796 l -10e-4,4.865 10e-4,4.512 c 0,0.379 0.214,0.725 0.552,0.895 l 3.4480004,1.723 v 5.9 c 0,0.347 0.179,0.669 0.475,0.851 l 9.1,5.601 c 0.311,0.19 0.701,0.197 1.02,0.016 l 4.405,-2.516 4.404,2.516 c 0.154,0.088 0.325,0.132 0.496,0.132 0.182,0 0.363,-0.05 0.525,-0.148 l 9.099,-5.601 c 0.296,-0.182 0.476,-0.504 0.476,-0.851 v -5.899 l 3.447,-1.724 c 0.339,-0.169 0.553,-0.515 0.553,-0.894 l 10e-4,-4.513 -10e-4,-4.866 c 0,-0.312 -0.146,-0.606 -0.394,-0.795 z M 18.031002,5.5 c 0,0.828 -0.672,1.5 -1.5,1.5 -0.829,0 -1.5,-0.672 -1.5,-1.5 0,-0.829 0.671,-1.5 1.5,-1.5 0.828,0 1.5,0.671 1.5,1.5 z m -5,0 c 0,0.828 -0.672,1.5 -1.5,1.5 -0.829,0 -1.5,-0.672 -1.5,-1.5 0,-0.829 0.671,-1.5 1.5,-1.5 0.828,0 1.5,0.671 1.5,1.5 z m -5.0000004,0 c 0,0.828 -0.672,1.5 -1.5,1.5 -0.829,0 -1.5,-0.672 -1.5,-1.5 0,-0.829 0.671,-1.5 1.5,-1.5 0.828,0 1.5,0.671 1.5,1.5 z m -6,3.5 0.005,-6.907 c 0,-0.044 0.052,-0.093 0.126,-0.093 H 53.905002 c 0.074,0 0.126,0.049 0.126,0.093 V 9 Z M 53.905002,0 H 2.1570016 C 0.98700158,0 0.03300158,0.938 0.03100158,2.091 L 7.8916308e-7,38.904 C -9.9842043e-4,40.052 0.94700158,40.992 2.1200016,41 l 3.911,-0.002 V 39 l -3.876,10e-4 c -0.073,0 -0.124,-0.049 -0.124,-0.093 L 2.0540016,11 H 54.031002 v 27.897 c 0,0.055 -0.058,0.102 -0.126,0.102 l -3.874,10e-4 v 2 l 3.874,-10e-4 c 1.172,0 2.126,-0.943 2.126,-2.102 V 2.093 c 0,-1.154 -0.954,-2.093 -2.126,-2.093 z"
+         id="Fill-1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Icon-Architecture/64/Arch_Amazon-CodeWhisperer_64</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
