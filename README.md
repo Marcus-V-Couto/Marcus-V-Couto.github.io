@@ -1,7 +1,9 @@
-# Portfólio — Fulano de Tal
+# Portfólio — Marcus Vinícius G. S. Couto
 
 Site pessoal / portfólio com projetos e exercícios. Desenvolvido com HTML, CSS e JavaScript.
 Versão estática pensada para deploy no GitHub Pages.
+
+https://marcus-v-couto.github.io/
 
 ## Sobre
 
