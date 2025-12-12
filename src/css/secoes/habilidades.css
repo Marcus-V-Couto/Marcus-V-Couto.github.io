@@ -7,7 +7,7 @@
     flex-wrap: wrap;
 }
 
-.habilidades .container-habilidades .informacoes{
+.habilidades .container-habilidades .informacoes {
     max-width: 350px;
     padding: 40px 20px;    
 }
@@ -17,7 +17,9 @@
 .habilidades .container-habilidades .informacoes h4,
 .habilidades .container-habilidades .informacoes h5,
 .habilidades .container-habilidades .informacoes span,
-.habilidades .container-habilidades .informacoes .logo i{
+.habilidades .container-habilidades .informacoes .logo i,
+.habilidades .container-habilidades .informacoes .logo img, 
+.habilidades .container-habilidades .informacoes .logo svg {
     transition: all .3s ease;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
@@ -29,7 +31,9 @@
 .habilidades .container-habilidades .informacoes:hover h4,
 .habilidades .container-habilidades .informacoes:hover h5,
 .habilidades .container-habilidades .informacoes:hover span,
-.habilidades .container-habilidades .informacoes:hover .logo i{
+.habilidades .container-habilidades .informacoes:hover .logo i,
+.habilidades .container-habilidades .informacoes:hover .logo img, 
+.habilidades .container-habilidades .informacoes:hover .logo svg {
     color: var(--cor-primaria);
 }
 
@@ -57,11 +61,11 @@
 }
 
 .habilidades .container-habilidades .informacoes .logo svg {
-      max-height: 82px;
-      max-width: 100%;
-      height: auto;
-      width: auto;
-      display: block;
-      margin: auto;
-      box-sizing: border-box;
-    }
+    max-height: 82px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    display: block;
+    margin: auto;
+    box-sizing: border-box;
+}
