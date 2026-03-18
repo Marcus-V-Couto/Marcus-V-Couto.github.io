@@ -91,10 +91,12 @@ html {
   
   .botao {
     font-size: var(--fonte-grande);
+    font-family: var(--fonte-secundaria);
     padding: 10px 20px;
     border-radius: 20px;
     transition: all .3s ease;
     background-color: var(--cor-primaria);
+    color: var(--cor-branca);
   }
   
   .botao:hover {
